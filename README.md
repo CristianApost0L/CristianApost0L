@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Computer engineering student searching for a challenge.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandiiorio&langs_count=5&layout=compact&theme=dark&exclude_repo=github-readme-stats,cristiandiiorio.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CristianApostol2002291/CristianApostol2002291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
